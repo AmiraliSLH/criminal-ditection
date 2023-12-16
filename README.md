@@ -3,7 +3,8 @@ Criminal Detection Project
 ## Overview
 
 The Criminal Detection Project is a software application designed for the identification and analysis of criminal activities. Leveraging advanced technologies, this project aims to enhance law enforcement efforts by providing tools for real-time criminal detection, data analysis, and decision support.
-##Features
+
+## Features
 
 Real-time Surveillance: Monitor live video feeds for potential criminal activities.
     Face Recognition: Identify and track individuals using facial recognition technology.
